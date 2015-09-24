@@ -35,7 +35,7 @@
             android:id="@+id/true_button"
            android:background="@color/teal2"
             android:text="@string/true_button"
-            android
+
             android:layout_marginRight="15dp"
             android:layout_weight="0.47" />
 
