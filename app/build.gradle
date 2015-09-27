@@ -24,3 +24,10 @@ dependencies {
     testCompile 'junit:junit:4.12'
     compile 'com.android.support:appcompat-v7:23.0.0'
 }
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    compile 'com.github.paolorotolo:appintro:3.2.0'
+}

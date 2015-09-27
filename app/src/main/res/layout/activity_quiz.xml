@@ -73,7 +73,8 @@
             android:id="@+id/next_button"
             android:src="@drawable/arrow_right"
             android:drawablePadding="4dp"
-            android:layout_weight="0.11" />
+            android:layout_weight="0.11"/>
+
 
     </LinearLayout>
 
