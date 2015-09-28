@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">GeoQuiz</string>
+    <string name="app_name">QuizApplication</string>
 
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
@@ -16,4 +16,10 @@
     <string name="question_americas">The Amazon River is the longest river in the Americas.</string>
     <string name="question_asia">Lake Baikal is the world\'s oldest and deepest
     freshwater lake.</string>
+
+
+    <string name="questionZimbabwe">When was Zimbabwean independence day</string>
+    <string name="questionSouthAfria">When did South Africa gain thier independence</string>
+
+
 </resources>

@@ -1,4 +1,4 @@
-package net.chi6rag.android.geoquiz;
+package net.chi6rag.android.MyQuez;
 
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
@@ -23,8 +23,11 @@ public class QuizActivity extends AppCompatActivity {
             new Question(R.string.question_americas, true),
             new Question(R.string.question_asia, true),
             new Question(R.string.question_mideast, false),
-            new Question(R.string.question_oceans, true)
+            new Question(R.string.question_oceans, true),
 
+
+
+            new Question(R.string.questionZimbabwe, true),
     };
     private int mCurrentIndex = 0;
     @Override

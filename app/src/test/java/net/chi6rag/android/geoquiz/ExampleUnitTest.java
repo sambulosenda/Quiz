@@ -1,4 +1,4 @@
-package net.chi6rag.android.geoquiz;
+package net.chi6rag.android.MyQuez;
 
 import org.junit.Test;
 

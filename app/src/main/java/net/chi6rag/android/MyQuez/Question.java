@@ -1,4 +1,4 @@
-package net.chi6rag.android.geoquiz;
+package net.chi6rag.android.MyQuez;
 
 /**
  * Created by chi6rag on 9/9/15.
